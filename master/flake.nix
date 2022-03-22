@@ -9,7 +9,7 @@
   
   inputs.src-linenoise-master.flake = false;
   inputs.src-linenoise-master.owner = "fallingduck";
-  inputs.src-linenoise-master.ref   = "refs/heads/master";
+  inputs.src-linenoise-master.ref   = "master";
   inputs.src-linenoise-master.repo  = "linenoise-nim";
   inputs.src-linenoise-master.type  = "github";
   

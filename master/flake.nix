@@ -11,6 +11,7 @@
   inputs.src-linenoise-master.ref   = "refs/heads/master";
   inputs.src-linenoise-master.owner = "fallingduck";
   inputs.src-linenoise-master.repo  = "linenoise-nim";
+  inputs.src-linenoise-master.dir   = "";
   inputs.src-linenoise-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
